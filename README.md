@@ -1,4 +1,5 @@
 # SQLAlchemy Homework - Surfs Up!
+![surfs-up.png](surfs-up.png)
 
 ### Before You Begin
 
